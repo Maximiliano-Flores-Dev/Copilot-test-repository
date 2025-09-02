@@ -7,3 +7,5 @@ Este archivo fue creado automáticamente por Copilot para demostrar acciones bá
 - También puedo mostrarte el historial de cambios, crear ramas, pull requests y más.
 
 ¿Quieres agregar algo específico a este archivo?
+
+*Esta línea fue agregada como prueba de modificación.*
